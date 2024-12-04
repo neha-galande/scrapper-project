@@ -2,7 +2,7 @@ import requests
 import csv
 import time
 
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "your_github_token"
 headers = {
     "Authorization": f"Bearer {GITHUB_TOKEN}"
 }
