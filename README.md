@@ -1,0 +1,3 @@
+- This project uses the GitHub API to retrieve users in a specific city with a follower count above a set threshold.
+- The most surprising insight was that many top users share a strong preference for a few programming languages.
+- Developers may benefit from including popular languages in their skill set to increase visibility.
